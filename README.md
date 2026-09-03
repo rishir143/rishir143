@@ -5,8 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rishiraj+Choubey;Full-Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript;GenAI+%2F+Agentic+AI+Explorer" alt="Typing SVG" />
 </a>
 
-<!-- Profile photo: drop your image at /assets/profile.png in this repo and this will render.
-     Google Drive "view" links don't work as <img> sources — GitHub can't fetch raw bytes from them. -->
+
 <img src="./assets/profile.png" width="150" height="150" style="border-radius:50%;" alt="Rishiraj Choubey" />
 
 <!-- Animated wave divider -->
@@ -16,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a **Full-Stack Developer** who enjoys building scalable, secure, and high-performance web applications — across frontend, backend, and increasingly, applied AI.
 
