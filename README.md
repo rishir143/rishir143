@@ -6,9 +6,7 @@
 </a>
 
 
-<img src="./assets/profile.JPG" width="150" height="150" style="border-radius:50%;" alt="Rishiraj Choubey" />
 
-<!-- Animated wave divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header" width="100%" />
 
 </div>
